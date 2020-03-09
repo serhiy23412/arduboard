@@ -2,7 +2,7 @@
 
 Здесь Вы можете найни все необходимые материалы для старта работы с ARDUboard:
 
-- [Демо видеo]()
+- [Демо видеo](https://www.youtube.com/watch?v=mznOui1vZ7c)
 
 - [Документация на плату](https://github.com/serhiy23412/arduboard/blob/master/Arduboard_datasheet.docx)
 
